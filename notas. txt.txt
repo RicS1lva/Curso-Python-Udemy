@@ -1,0 +1,34 @@
+# - ignora tudo que ta na linha dps dela como um comentário no código
+
+""" - Docstring ignorar e colocar comentários em múltiplas linhas
+
+**Tipagens de linguagem de programação**
+
+Fraca
+Forte
+Dinâmica - Ja sabe qual o tipo de informação que está sendo passada
+Estática
+
+Python é uma linguagem de tipagem forte e dinâmica
+
+
+String - str = texto, que geralmente precisa estar dentro de aspas 
+Ex: "eita"
+
+Int = Inteiros = Números inteiros 
+Ex: 1, 11, 0
+
+Float = "decimais" = Números decimais (Sempre separar por pontos, pois virgulas tem outra função na programação
+Ex: 10.11, 11.5, 0.0, -1.5
+
+Bool = Boolean = true or false
+
+"==" = igual
+
+Conversão de tipos == Coerção == Type convertion == typecasting == coercion == é basicamente converter um tipo em outro
+
+]Ex: print(1 + 1) -> 2
+	printt ("a" + "b") -> ab (Ele concatena(junta) os dois dados
+
+
+Variáveis são usadas para salvar coisas na memória do pc
