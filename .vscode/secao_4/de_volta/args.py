@@ -17,4 +17,9 @@ def soma(*args):
 
 soma1 = soma(1, 2, 3, 4)
 print(soma1)
-print(sum(1, 2, 3, 4))
+print(sum((1, 2, 3, 4)))
+
+numeros = 1, 2, 3, 4, 5, 6, 7
+
+outra_soma = soma(*numeros)
+print(*numeros)
